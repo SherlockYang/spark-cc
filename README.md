@@ -1,4 +1,4 @@
-## Spark-CC: Computing Clustering Coefficient for a Given Graph
+## Spark-CC: Clustering Coefficient Computation
 
 The Clustering Coefficient (CC) is a fundamental measure in social (or other type of) network analysis assessing the degree to which nodes tend to cluster together [1][2]. Clustering coefficient, along with density, node degree, path length, diameter, connectedness, and node centrality are seven most important properties to characterise a network [3].
 
