@@ -41,7 +41,7 @@ val graph = GraphLoader.edgeListFile(sc, "graph.txt").partitionBy(PartitionStrat
 val lcc = LocalClusteringCoefficient.run(graph)
 
 // output results for each vertex
-val verts = Lcc.vertices
+val verts = lcc.vertices
 verts.collect().foreach { case (vid, count) =>
     println(vid + ": " + count)
 }
