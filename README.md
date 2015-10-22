@@ -26,6 +26,8 @@ Clustering coefficient is very helpful to many real applications, such as user b
 [8] Lichtenwalter, Ryan N., Jake T. Lussier, and Nitesh V. Chawla. New perspectives and methods in link prediction. In KDD'10.
 
 #### Usage
+Check [Spark Packages](http://spark-packages.org/package/tdebatty/spark-knn-graphs)
+
 Here is a usage example for LocalClusteringCoefficient:
 
 ```Scala
