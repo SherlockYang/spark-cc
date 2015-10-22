@@ -7,7 +7,7 @@ We found that GraphX has already implemented connectedness, node centrality, pat
 Clustering coefficient is very helpful to many real applications, such as user behaviour prediction and structure prediction (like link prediction). We did that before in a bunch of papers (e.g., [4-5]), and also found many other publication papers using this metric in their work [6-8]. We are very confident that this feature will benefit GraphX and attract a large number of users.
 
 #### Usage
-Check [Spark Packages](http://spark-packages.org/package/tdebatty/spark-knn-graphs)
+Check [Spark Packages](http://spark-packages.org/package/SherlockYang/spark-cc)
 
 Here is a usage example for LocalClusteringCoefficient:
 
